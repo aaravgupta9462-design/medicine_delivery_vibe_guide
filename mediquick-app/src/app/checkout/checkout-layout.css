@@ -1,0 +1,8 @@
+.checkout-page-wrapper {
+  background: var(--bg-base);
+  min-height: 100vh;
+}
+
+.checkout-page-header {
+  margin-bottom: var(--space-xl);
+}
